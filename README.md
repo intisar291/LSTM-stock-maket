@@ -53,7 +53,14 @@ Furthur, we have training and testing dataset log values as a overlap over origi
 
 
 ![Up down](https://user-images.githubusercontent.com/83521671/173617456-208b8c44-9787-4b1d-928b-ff6480d6973d.JPG) 
+
 ![10 days](https://user-images.githubusercontent.com/83521671/173623990-8e5bca96-1c20-48d2-b43b-7a1e2665d25e.JPG)
+
+Trading decision based on the prediction fro Alphaber Inc-
+
+![trading decision](https://user-images.githubusercontent.com/83521671/173628884-ba60cf0a-86d1-4f1a-a667-132a14041b52.JPG)
+
+The higher trading price can alter the situation of long or short decision as return may change. 
 
 
 ### **More analysis**
@@ -62,7 +69,8 @@ For furthur analysis, we included volatiliy, max dropdown, total return by compa
 
 ![volatility](https://user-images.githubusercontent.com/83521671/173624682-15a0edaa-ac12-4097-bb11-bf429ad52d2f.JPG)
 
-This is the drop down return of large caps. 
+This is the drop down return of large caps.
+
 ![dropdown](https://user-images.githubusercontent.com/83521671/173626696-64aeb1e7-235d-4647-8dc9-c5fae36f6c3c.png)
 
 ### **Conclusion** 
